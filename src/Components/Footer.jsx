@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="flex items-center gap-2 text-2xl font-bold mb-4">
             <MdFlightTakeoff className="text-blue-500 text-3xl" />
             <span>
-              <span className="text-blue-500">Os</span>
+              <span className="text-blue-500">Mama</span>
               <span className="text-white">Travel</span>
               <span className="text-green-500">Portal</span>
             </span>

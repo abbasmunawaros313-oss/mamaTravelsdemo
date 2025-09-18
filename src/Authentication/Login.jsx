@@ -55,7 +55,7 @@ export default function Login() {
         <div className="flex flex-col items-center justify-center gap-2 mb-6 text-center">
           <MdFlightTakeoff className="text-yellow-300 text-6xl drop-shadow-lg animate-bounce" />
           <h1 className="text-3xl font-extrabold text-white tracking-wide">
-            <span className="text-yellow-200">Os</span>
+            <span className="text-yellow-200">Mama</span>
             <span className="text-white">Travel</span>
             <span className="text-green-200">Portal</span>
           </h1>

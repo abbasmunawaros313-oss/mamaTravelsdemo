@@ -24,7 +24,7 @@ export default function Navbar({ userName }) {
             <div className="flex-shrink-0">
               <Link to="/home">
                 <h1 className="text-xl font-bold text-gray-800 cursor-pointer">
-                  <span className="text-blue-600">Os</span>
+                  <span className="text-blue-600">Mama</span>
                   <span className="text-gray-800">Travel</span>
                   <span className="text-green-600">Portal</span>
                 </h1>
